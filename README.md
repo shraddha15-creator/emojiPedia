@@ -1,6 +1,6 @@
 ## Don't Know The Meaning Of Emojis? Let's Try EmojiPedia and out the meaning of your Meaning!!
 
-# EmojiPedia 🎃😍🥰🤩😁
+# [EmojiPedia](https://emojipedia-know-the-meaning.netlify.app/) 🎃😍🥰🤩😁
 
 ### App to know the meaning of emoji we use
 
